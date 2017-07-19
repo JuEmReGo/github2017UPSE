@@ -14,14 +14,14 @@ public class algoritmoNuevo {
 		
 		do{ 
 		 System.out.println("tu nota es:"+ nota);
-		 if(i>5){
+		 if(i>20){
 			 break;
 			 		 
 		 }
 			i++;
 			
 		}while(copiaExamen);
-		
+		System.out.println("buena onda!");
 			
 
 	}
